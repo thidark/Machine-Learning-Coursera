@@ -1,0 +1,17 @@
+# Created by Octave 6.3.0, Mon Aug 02 16:23:19 2021 GMT <unknown@DESKTOP-HP668G1>
+# name: v
+# type: matrix
+# rows: 10
+# columns: 1
+ 399900
+ 329900
+ 369000
+ 232000
+ 539900
+ 299900
+ 314900
+ 198999
+ 212000
+ 242500
+
+
